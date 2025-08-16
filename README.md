@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jawad!;" />
 </h1>
 
-<h3 align="center">-----</h3>
+<h3 align="center">Software Engineering Student | Specializing in Data Science, AI & Machine Learning</h3>
 
 <br/>
 
