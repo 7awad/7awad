@@ -11,7 +11,7 @@
 <div align="center">
  
 
- 🧑🏻‍💻 I am passionate about solving complex problems and building efficient software solutions. 
+I’m passionate about applying data science, machine learning, and AI to create solutions that go beyond automation, developing systems that are adaptive, efficient, and impactful.
 
  </div>
  
