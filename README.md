@@ -3,8 +3,9 @@ I'm a **Software Engineering Technology student at McMaster University**, passio
 I love turning data into meaningful insights and building intelligent systems that make technology more useful and accessible.
 
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mithi&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mithi&theme=dracula)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7awad&theme=github_dark_blue)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7awad&theme=github_dark_blue)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7awad&theme=github_dark_blue)|
 |-----|------|------|
+
 
 Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
 
