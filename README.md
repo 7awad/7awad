@@ -1,35 +1,45 @@
-Hi, I'm Jawad Almatar.  
-I'm a **Software Engineering Technology student at McMaster University**, passionate about **Data Science, Machine Learning, and AI-driven software solutions**.  
-I love turning data into meaningful insights and building intelligent systems that make technology more useful and accessible.
+# 👋 Hey, I'm Jawad Almatar!
 
+Welcome to my corner of the internet, where **data meets creativity** 🧠✨  
 
-|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7awad&theme=github_dark_blue)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7awad&theme=github_dark_blue)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7awad&theme=github_dark_blue)|
-|-----|------|------|
-
-
-Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
-
-# Recent Projects
-
-1. [RailTrack Cloud](https://github.com/7awad/RailTrack-Cloud)
-   - A cloud-based monitoring and analytics system that predicts rail congestion using **Azure**, **Python**, and **Power BI**.
-2. [Global Cost Dashboard](https://github.com/7awad/global-cost-dashboard)
-   - A **Streamlit web app** visualizing the global cost of living using **Python**, **Plotly**, and **Pandas**.
+🎓 Bachelor of Technology (Co-op) in **Software Engineering Technology** @ *McMaster University*  
+🎓 Advanced Diploma in **Computer Programming & Analysis** @ *St. Lawrence College*  
+💡 Exploring how **AI, Data Science, and Cloud Computing** can solve real-world problems  
+🚀 Currently building **data engineering projects** using Azure, Power BI, and Python  
 
 ---
 
-### 🌍 Connect with Me
+## 🌟 What I'm Building & Learning
 
-<div>
-  <a href="https://jawadalmatar.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-004AAD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jawad-almatar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-004AAD?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/7awad" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-004AAD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+- 🤖 **AI & ML mini-projects** — exploring model fine-tuning, predictive analytics, and automation  
+- ☁️ Experimenting with **data pipelines and cloud integration** using Microsoft Azure  
+- 📊 Designing **interactive dashboards** to turn raw data into actionable insights  
+- 🧩 Contributing to small **open-source and community-driven tech projects**  
+- 🌐 Continuously improving my **portfolio and data engineering workflow**  
 
 ---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages:** Python, SQL, C#, JavaScript  
+**Frameworks:** Streamlit, Flask, React (learning)  
+**Data & ML:** Pandas, NumPy, scikit-learn, Power BI, Azure Data Factory, Azure SQL DB  
+**Tools:** Git, Jupyter Notebook, Supabase, Microsoft Azure, GitHub Actions  
+
+---
+
+## 🌱 A Bit About Me
+
+- 🧩 Passionate about applying **data-driven thinking** to sustainability and innovation  
+- 📚 Always learning and sharing — from AI research to real-world cloud projects  
+- 🌍 Believe technology should be **ethical, transparent, and impactful**  
+
+---
+
+## 📫 Let’s Connect
+
+[💼 LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [💻 GitHub](https://github.com/jawadalmatar) • 🌐 [Portfolio](https://jawadalmatar.com)
+
+---
+
+✨ *“Learn deeply. Build responsibly. Use AI for good.”*
