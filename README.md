@@ -5,7 +5,6 @@ Welcome to my corner of the internet, where **data meets creativity** 🧠✨
 🎓 Bachelor of Technology (Co-op) in **Software Engineering Technology** @ *McMaster University*  
 🎓 Advanced Diploma in **Computer Programming & Analysis** @ *St. Lawrence College*  
 💡 Exploring how **AI, Data Science, and Cloud Computing** can solve real-world problems  
-🚀 Currently building **data engineering projects** using Azure, Power BI, and Python  
 
 ---
 
