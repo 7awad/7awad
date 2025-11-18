@@ -1,44 +1,48 @@
-# 👋 Hey, I'm Jawad Almatar!
+# Hey, I'm Jawad Almatar!
 
-Welcome to my corner of the internet, where **data meets creativity** 🧠✨  
+Welcome to my GitHub! I’m a Software Engineering Technology student at McMaster University with a strong interest in **Data Science, AI/ML, and cloud-based solutions**. I enjoy learning by building things and turning ideas into working projects.
 
-🎓 Bachelor of Technology (Co-op) in **Software Engineering Technology** @ *McMaster University*  
+🎓 B.Tech (Co-op) in **Software Engineering Technology** @ *McMaster University*  
 🎓 Advanced Diploma in **Computer Programming & Analysis** @ *St. Lawrence College*  
-💡 Exploring how **AI, Data Science, and Cloud Computing** can solve real-world problems  
+🔎 Interested in **machine learning, data analytics, and cloud engineering**
 
 ---
 
-## 🌟 What I'm Building & Learning
+##  What I'm Working On
 
-- 🤖 **AI & ML mini-projects** — exploring model fine-tuning, predictive analytics, and automation  
-- ☁️ Experimenting with **data pipelines and cloud integration** using Microsoft Azure  
-- 📊 Designing **interactive dashboards** to turn raw data into actionable insights  
-- 🧩 Contributing to small **open-source and community-driven tech projects**  
-- 🌐 Continuously improving my **portfolio and data engineering workflow**  
-
----
-
-## 🛠️ Tech Stack & Skills
-
-**Languages:** Python, SQL, C#, JavaScript  
-**Frameworks:** Streamlit, Flask, React (learning)  
-**Data & ML:** Pandas, NumPy, scikit-learn, Power BI, Azure Data Factory, Azure SQL DB  
-**Tools:** Git, Jupyter Notebook, Supabase, Microsoft Azure, GitHub Actions  
+-  Building **AI/ML projects** to practice model training and evaluation  
+-  Working with **data pipelines and Azure services** for cloud integration  
+-  Creating **dashboards and data visuals** to communicate insights  
+-  Exploring open-source tools and contributing when I can  
+-  Improving my workflow around **data engineering, documentation, and clean code**
 
 ---
 
-## 🌱 A Bit About Me
+## 🛠 Tech Stack & Skills
 
-- 🧩 Passionate about applying **data-driven thinking** to sustainability and innovation  
-- 📚 Always learning and sharing — from AI research to real-world cloud projects  
-- 🌍 Believe technology should be **ethical, transparent, and impactful**  
+**Languages:** Python, SQL, Java, C++, JavaScript, HTML, CSS  
+
+**Libraries & Frameworks:**  
+Pandas, NumPy, Matplotlib  
+
+**Data & ML:**  
+Scikit-learn, Power BI, Tableau  
+
+**Tools & Platforms:**  
+Jupyter Notebook, Anaconda, Git, GitHub, VS Code, IntelliJ IDEA,  
+Azure, Docker
 
 ---
 
-## 📫 Let’s Connect
+##  A Bit About Me
 
-[💼 LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [💻 GitHub](https://github.com/jawadalmatar) • 🌐 [Portfolio](https://jawadalmatar.com)
+- I like turning data into clear answers and solutions  
+- I learn by building and improving real projects  
+- I’m interested in applied AI, analytics, and cloud systems  
+- I focus on practical work, clean design, and responsible technology  
 
 ---
 
-✨ *“Learn deeply. Build responsibly. Use AI for good.”*
+##  Let’s Connect
+
+[LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [GitHub](https://github.com/jawadalmatar) • [Portfolio](https://jawadalmatar.com)
