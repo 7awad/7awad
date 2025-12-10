@@ -10,4 +10,4 @@ Welcome to my GitHub! I’m a Software Engineering Technology student at McMaste
 
 ##  Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [GitHub](https://github.com/jawadalmatar) • [Portfolio](https://jawadalmatar.com)
+[LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [Portfolio](https://jawadalmatar.com)
