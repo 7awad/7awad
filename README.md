@@ -1,13 +1,14 @@
-# Hey, I'm Jawad Almatar!
+# Hey, I'm Jawad Almatar
 
-Welcome to my GitHub! I’m a Software Engineering Technology student at McMaster University with a strong interest in **Data Engineering, Data Analytics, and cloud-based solutions**. I enjoy learning by building things and turning ideas into working projects.
+Software Engineering student at McMaster University focused on **Data Engineering, Data Analytics, and Machine Learning**. I build practical projects that turn data into working systems.
 
-🎓 B.Tech (Co-op) in **Software Engineering Technology** @ *McMaster University*  
-🎓 Advanced Diploma in **Computer Programming & Analysis** @ *St. Lawrence College*  
-🔎 Interested in **Data Engineering, Data analytics, and Cloud Engineering**
+🎓 **B.Tech (Co-op), Software Engineering Technology** - McMaster University  
+🎓 **Advanced Diploma, Computer Programming & Analysis** - St. Lawrence College  
 
 ---
 
-##  Let’s Connect
+## Let’s Connect
 
-[LinkedIn](https://www.linkedin.com/in/jawadalmatar) • [Portfolio](https://jawadalmatar.com)
+- LinkedIn: https://www.linkedin.com/in/jawadalmatar  
+- Portfolio: https://jawadalmatar.com
+
