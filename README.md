@@ -1,4 +1,4 @@
-# Hey, I'm Jawad Almatar
+# Hey, I'm Jawad 
 
 Software Engineering student at McMaster University focused on **Data Engineering, Data Analytics, and Machine Learning**. I build practical projects that turn data into working systems.
 
